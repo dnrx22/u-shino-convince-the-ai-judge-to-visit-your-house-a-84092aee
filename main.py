@@ -158,7 +158,7 @@ BODY = [
     "Love, your host",
     "",
     "P.S. I promise not to ask",
-    "you to do my taxes.",
+    "you to judge my taxes.",
 ]
 
 
